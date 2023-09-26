@@ -1,0 +1,172 @@
+{
+  "produtos": [
+    {
+      "imageUrl": "assets/image/produtos/starwars/caneca.svg",
+      "name": "Caneca",
+      "price": "59,00",
+      "id": 1,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "nformações Técnicas: Altura: 11cm Comprimento: 12cm Largura: 13cm Peso: 58gr Capacidade: 500ml Material: Cerâmica"
+    },
+    {
+      "imageUrl": "assets/image/produtos/starwars/darthvaderlego.svg",
+      "name": "Darthvader Lego",
+      "price": "799,00",
+      "id": 2,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "O design icônico do capacete de Darth Vader é recriado em peças LEGO para despertar memórias de cenas clássicas da saga Star Wars, e o expositor com placa de identificação completa uma impressionante peça central"
+    },
+    {
+      "imageUrl": "assets/image/produtos/starwars/yoda.svg",
+      "name": "Boneco Yoda",
+      "price": "100,00",
+      "id": 3,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Action Figure do Yoda"
+    },
+    {
+      "imageUrl": "assets/image/produtos/starwars/clone.svg",
+      "name": "Clone",
+      "price": "60,00",
+      "id": 4,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Action Figure do Stormtrooper"
+    },
+    {
+      "imageUrl": "assets/image/produtos/starwars/yodabebe.svg",
+      "name": "Yoda bebe",
+      "price": "90,00",
+      "id": 5,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Pelucia de tamanho médio"
+    },
+    {
+      "imageUrl": "assets/image/produtos/starwars/kyloren.svg",
+      "name": "kyloren",
+      "price": "69,00",
+      "id": 6,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Action Figure do Kylo Ren"
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/controle.svg",
+      "name": "Controle Xbox",
+      "price": "60,00",
+      "id": 7,
+      "alt": "Product",
+      "section": "consoles",
+      "description": "Experimente o design modernizado do Novo Controle Sem Fio - Robot White, com superfícies esculpidas e geometria refinada para maior conforto durante o jogo"
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/ps5.svg",
+      "name": "PS5",
+      "price": "60,00",
+      "id": 8,
+      "alt": "Product",
+      "section": "consoles",
+      "description": " SSD 825GB, Controle sem fio DualSense, Com Mídia Física, Branco"
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/nintendo.svg",
+      "name": "Nintendo",
+      "price": "150,00",
+      "id": 9,
+      "alt": "Product",
+      "section": "consoles",
+      "description": "Nintendinho clone anos 90"
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/wii.svg",
+      "name": "Nintendo Switch Oled",
+      "price": "2.235,00",
+      "id": 10,
+      "alt": "Product",
+      "section": "consoles",
+      "description": "CONHEÇA O NOVO NINTENDO SWITCH. O novo console apresenta uma tela OLED vibrante de 7 polegadas (17,78 cm), um amplo suporte ajustável, uma base com uma porta LAN integrada, 64 GB de espaço de armazenamento interno e um áudio aprimorado."
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/xbox.svg",
+      "name": "Xbox Series X Premium Edition",
+      "price": "4.599,00",
+      "id": 11,
+      "alt": "Product",
+      "section": "consoles",
+      "description": "Explore as paisagens do mundo aberto vibrante e em constante evolução do México nos melhores carros do mundo com 12 teraflops de poder de processamento gráfico bruto, DirectX ray tracing, um SSD personalizado e jogos em 4K."
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/gameboy.svg",
+      "name": "Gameboy Color",
+      "price": "300,00",
+      "id": 12,
+      "alt": "Product",
+      "section": "consoles",
+      "description": "Cor: Transparente. Vem com 3 cartuchos aleatórios"
+    },
+    {
+      "imageUrl": "assets/image/produtos/diversos/camisa-japonesa.svg",
+      "name": "Camisa Japonesa",
+      "price": "60,00",
+      "id": 13,
+      "alt": "Product",
+      "section": "diversos",
+      "description": "Camisa de manga curta. Marca: AluraGeek"
+    },
+    {
+      "imageUrl": "assets/image/produtos/diversos/camisa.svg",
+      "name": "Camisa Atari",
+      "price": "54,00",
+      "id": 14,
+      "alt": "Product",
+      "section": "diversos",
+      "description": "Camisa de manga curta. Marca: AluraGeek"
+    },
+    {
+      "imageUrl": "assets/image/produtos/diversos/sonic.svg",
+      "name": "Sonic",
+      "price": "55,00",
+      "id": 15,
+      "alt": "Product",
+      "section": "diversos",
+      "description": "Action Figure do Sonic"
+    },
+    {
+      "imageUrl": "assets/image/produtos/diversos/relogio.svg",
+      "name": "Relógio de Mesa",
+      "price": "49,90",
+      "id": 16,
+      "alt": "Product",
+      "section": "diversos",
+      "description": "Esse lindo Relógio Despertador é perfeito para você e para presentear!"
+    },
+    {
+      "imageUrl": "assets/image/produtos/diversos/realidadevirtual.svg",
+      "section": "diversos",
+      "name": "Oculus Quest 2 VR Headset",
+      "price": "3.000,00",
+      "description": "Produto de qualidade reconhecida no mercado. Marca do produto: Oculus",
+      "id": 17
+    },
+    {
+      "imageUrl": "assets/image/produtos/diversos/pikachu.svg",
+      "section": "diversos",
+      "name": "Pikachu",
+      "price": "60,00",
+      "description": "Fantasia de Pikachu de otima qualidade",
+      "id": 18
+    },
+    {
+      "imageUrl": "assets/image/produtos/console/nintendoSwitch.jpg",
+      "section": "consoles",
+      "name": "Nintendo Switch Oled",
+      "price": "2600,00",
+      "description": "Console Nintendo Switch modelo OLED: Console, Joy-Cons e Dock personalizados com o tema de Pokémon Scarlet & Violet;",
+      "id": 19
+    }
+  ]
+}
